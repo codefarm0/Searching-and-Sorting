@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * @author Green Learner
- * @contac - https://fb.me/greenlearner
+ * @contact - https://fb.me/greenlearner
  */
 public class LinearSearch {
 

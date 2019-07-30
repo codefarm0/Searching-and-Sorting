@@ -3,3 +3,30 @@
 
 ## Linear Search algorithm
 Youtube video to explain algorithm and java implementation - https://youtu.be/9uspn4qjnQ0
+
+## Linear Search algorithm
+Youtube video to explain algorithm and java implementation - TBD
+
+## Bubble sort algorithm
+Youtube video to explain algorithm and java implementation - TBD
+
+## Selection sort algorithm
+Youtube video to explain algorithm and java implementation - TBD
+
+## Insertion sort algorithm
+Youtube video to explain algorithm and java implementation - TBD
+
+## Quick sort algorithm
+Youtube video to explain algorithm and java implementation - TBD
+
+## Merge sort sort algorithm
+Youtube video to explain algorithm and java implementation - TBD
+
+## Heap sort algorithm
+Youtube video to explain algorithm and java implementation - TBD
+
+## Count sort algorithm
+Youtube video to explain algorithm and java implementation - TBD
+
+## Tim sort algorithm
+Youtube video to explain algorithm and java implementation - TBD

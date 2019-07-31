@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class BinarySearch {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter number of element in data set");
+        System.out.println("Enter number of element in data set(elements must be in incremental sorted order)");
         int num = sc.nextInt();
         System.out.println("Enter " + num + " elements ");
         int dataSet[] = new int[num];
@@ -43,9 +43,9 @@ public class BinarySearch {
                 index = mid;
                 break;
             } else if (target < dataSet[mid]) {
-                end = mid - 1;
+                end = mid - 1;//ignoring the right side of the mid
             } else {
-                start = mid + 1;
+                start = mid + 1;//ignoring the left side of the mid
             }
         }
         System.out.println("**** Total iterations performed - " + totalIterations);

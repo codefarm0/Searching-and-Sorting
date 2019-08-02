@@ -32,7 +32,7 @@ Youtube video to explain algorithm and java implementation - https://youtu.be/xi
 Youtube video to explain algorithm and java implementation - TBD
 
 ## Insertion sort algorithm
-Youtube video to explain algorithm and java implementation - TBD
+Youtube video to explain algorithm and java implementation - https://youtu.be/tn5UbEIlV5c
 
 ## Quick sort algorithm
 Youtube video to explain algorithm and java implementation - TBD

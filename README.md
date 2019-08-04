@@ -29,7 +29,7 @@ Youtube video to explain algorithm and java implementation - https://youtu.be/Zz
 Youtube video to explain algorithm and java implementation - https://youtu.be/xiCP9QEiWK0
 
 ## Selection sort algorithm
-Youtube video to explain algorithm and java implementation - TBD
+Youtube video to explain algorithm and java implementation - https://youtu.be/HiHApopkzT8
 
 ## Insertion sort algorithm
 Youtube video to explain algorithm and java implementation - https://youtu.be/tn5UbEIlV5c
